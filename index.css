@@ -1,0 +1,112 @@
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg");
+    background-size:cover;
+}
+
+.first {
+    position: fixed;
+    top: 20%;
+    left: 25%;
+    border-radius: 20px;
+    border: thick;
+    border-style: inset;
+    height: 45px;
+    width: 650px;
+    background-color: rgb(255, 255, 255);
+}
+
+.size1 {
+    height: 24px;
+    width: 24px;
+}
+
+.size2 {
+    height: 22px;
+    width: 22px;
+}
+
+.right {
+    position: fixed;
+    top: 6%;
+    left: 90%;
+}
+
+.left {
+    position: fixed;
+    top: 6%;
+    left: 3%;
+}
+
+.size3 {
+    position: fixed;
+    top: 4%;
+    left: 8.5%;
+}
+
+.icon {
+    position: fixed;
+    top: 22%;
+    left: 67%;
+}
+
+.size4 {
+    height: 20px;
+    width: 20px;
+}
+
+button {
+    height: 63px;
+    width: 63px;
+    border-radius: 200px;
+    border-style: none;
+    background-color: transparent;
+}
+
+table {
+    position: fixed;
+    top: 70%;
+    left: 22.5%;
+}
+
+.size5 {
+    height: 48px;
+    width: 48px;
+}
+
+p {
+    font-size: medium;
+    color: rgb(0, 0, 0);
+    font-variant: initial;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 80px;
+    text-decoration: initial;
+}
+
+.last1 {
+    position: fixed;
+    top: 92%;
+    left: 66%;
+    height: 35px;
+    width: 250px;
+    border-radius: 30px;
+    background: transparent;
+    border-color: rgb(249, 251, 255);
+    font-weight: 80px;
+}
+
+.last2 {
+    height: 35px;
+    width: 35px;
+    position: fixed;
+    top: 91.6%;
+    left: 85%;
+}
+
+.last3 {
+    height: 35px;
+    width: 35px;
+    position: fixed;
+    top: 91.6%;
+    left: 88%;
+}
